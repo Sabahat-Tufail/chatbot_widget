@@ -3,7 +3,7 @@
     const iframe = document.createElement('iframe');
 
     // Set the source to your hosted widget HTML
-    iframe.src = "https://widget.yourdomain.com/widget/widget.html"; // <- Replace with actual URL
+    iframe.src = "https://sabahat-tufail.github.io/chatbot_widget/widget.html"; // <- Replace with actual URL
 
     // Style the iframe to float as a chat widget
     iframe.style.position = "fixed";
@@ -19,3 +19,4 @@
     // Append the iframe to the page
     document.body.appendChild(iframe);
 })();
+
